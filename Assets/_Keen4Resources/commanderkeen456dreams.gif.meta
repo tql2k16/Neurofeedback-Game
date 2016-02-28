@@ -1,0 +1,3367 @@
+fileFormatVersion: 2
+guid: 962ea060dc18d2a4383b0241c8fb7b73
+timeCreated: 1449864309
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: commanderkeen456dreams_0
+    21300002: commanderkeen456dreams_1
+    21300004: commanderkeen456dreams_2
+    21300006: commanderkeen456dreams_3
+    21300008: commanderkeen456dreams_4
+    21300010: commanderkeen456dreams_5
+    21300012: commanderkeen456dreams_6
+    21300014: commanderkeen456dreams_7
+    21300016: commanderkeen456dreams_8
+    21300018: commanderkeen456dreams_9
+    21300020: commanderkeen456dreams_10
+    21300022: commanderkeen456dreams_11
+    21300024: commanderkeen456dreams_12
+    21300026: commanderkeen456dreams_13
+    21300028: commanderkeen456dreams_14
+    21300030: commanderkeen456dreams_15
+    21300032: commanderkeen456dreams_16
+    21300034: commanderkeen456dreams_17
+    21300036: commanderkeen456dreams_18
+    21300038: commanderkeen456dreams_19
+    21300040: commanderkeen456dreams_20
+    21300042: commanderkeen456dreams_21
+    21300044: commanderkeen456dreams_22
+    21300046: commanderkeen456dreams_23
+    21300048: commanderkeen456dreams_24
+    21300050: commanderkeen456dreams_25
+    21300052: commanderkeen456dreams_26
+    21300054: commanderkeen456dreams_27
+    21300056: commanderkeen456dreams_28
+    21300058: commanderkeen456dreams_29
+    21300060: commanderkeen456dreams_30
+    21300062: commanderkeen456dreams_31
+    21300064: commanderkeen456dreams_32
+    21300066: commanderkeen456dreams_33
+    21300068: commanderkeen456dreams_34
+    21300070: commanderkeen456dreams_35
+    21300072: commanderkeen456dreams_36
+    21300074: commanderkeen456dreams_37
+    21300076: commanderkeen456dreams_38
+    21300078: commanderkeen456dreams_39
+    21300080: commanderkeen456dreams_40
+    21300082: commanderkeen456dreams_41
+    21300084: commanderkeen456dreams_42
+    21300086: commanderkeen456dreams_43
+    21300088: commanderkeen456dreams_44
+    21300090: commanderkeen456dreams_45
+    21300092: commanderkeen456dreams_46
+    21300094: commanderkeen456dreams_47
+    21300096: commanderkeen456dreams_48
+    21300098: commanderkeen456dreams_49
+    21300100: commanderkeen456dreams_50
+    21300102: commanderkeen456dreams_51
+    21300104: commanderkeen456dreams_52
+    21300106: commanderkeen456dreams_53
+    21300108: commanderkeen456dreams_54
+    21300110: commanderkeen456dreams_55
+    21300112: commanderkeen456dreams_56
+    21300114: commanderkeen456dreams_57
+    21300116: commanderkeen456dreams_58
+    21300118: commanderkeen456dreams_59
+    21300120: commanderkeen456dreams_60
+    21300122: commanderkeen456dreams_61
+    21300124: commanderkeen456dreams_62
+    21300126: commanderkeen456dreams_63
+    21300128: commanderkeen456dreams_64
+    21300130: commanderkeen456dreams_65
+    21300132: commanderkeen456dreams_66
+    21300134: commanderkeen456dreams_67
+    21300136: commanderkeen456dreams_68
+    21300138: commanderkeen456dreams_69
+    21300140: commanderkeen456dreams_70
+    21300142: commanderkeen456dreams_71
+    21300144: commanderkeen456dreams_72
+    21300146: commanderkeen456dreams_73
+    21300148: commanderkeen456dreams_74
+    21300150: commanderkeen456dreams_75
+    21300152: commanderkeen456dreams_76
+    21300154: commanderkeen456dreams_77
+    21300156: commanderkeen456dreams_78
+    21300158: commanderkeen456dreams_79
+    21300160: commanderkeen456dreams_80
+    21300162: commanderkeen456dreams_81
+    21300164: commanderkeen456dreams_82
+    21300166: commanderkeen456dreams_83
+    21300168: commanderkeen456dreams_84
+    21300170: commanderkeen456dreams_85
+    21300172: commanderkeen456dreams_86
+    21300174: commanderkeen456dreams_87
+    21300176: commanderkeen456dreams_88
+    21300178: commanderkeen456dreams_89
+    21300180: commanderkeen456dreams_90
+    21300182: commanderkeen456dreams_91
+    21300184: commanderkeen456dreams_92
+    21300186: commanderkeen456dreams_93
+    21300188: commanderkeen456dreams_94
+    21300190: commanderkeen456dreams_95
+    21300192: commanderkeen456dreams_96
+    21300194: commanderkeen456dreams_97
+    21300196: commanderkeen456dreams_98
+    21300198: commanderkeen456dreams_99
+    21300200: commanderkeen456dreams_100
+    21300202: commanderkeen456dreams_101
+    21300204: commanderkeen456dreams_102
+    21300206: commanderkeen456dreams_103
+    21300208: commanderkeen456dreams_104
+    21300210: commanderkeen456dreams_105
+    21300212: commanderkeen456dreams_106
+    21300214: commanderkeen456dreams_107
+    21300216: commanderkeen456dreams_108
+    21300218: commanderkeen456dreams_109
+    21300220: commanderkeen456dreams_110
+    21300222: commanderkeen456dreams_111
+    21300224: commanderkeen456dreams_112
+    21300226: commanderkeen456dreams_113
+    21300228: commanderkeen456dreams_114
+    21300230: commanderkeen456dreams_115
+    21300232: commanderkeen456dreams_116
+    21300234: commanderkeen456dreams_117
+    21300236: commanderkeen456dreams_118
+    21300238: commanderkeen456dreams_119
+    21300240: commanderkeen456dreams_120
+    21300242: commanderkeen456dreams_121
+    21300244: commanderkeen456dreams_122
+    21300246: commanderkeen456dreams_123
+    21300248: commanderkeen456dreams_124
+    21300250: commanderkeen456dreams_125
+    21300252: commanderkeen456dreams_126
+    21300254: commanderkeen456dreams_127
+    21300256: commanderkeen456dreams_128
+    21300258: commanderkeen456dreams_129
+    21300260: commanderkeen456dreams_130
+    21300262: commanderkeen456dreams_131
+    21300264: commanderkeen456dreams_132
+    21300266: commanderkeen456dreams_133
+    21300268: commanderkeen456dreams_134
+    21300270: commanderkeen456dreams_135
+    21300272: commanderkeen456dreams_136
+    21300274: commanderkeen456dreams_137
+    21300276: commanderkeen456dreams_138
+    21300278: commanderkeen456dreams_139
+    21300280: commanderkeen456dreams_140
+    21300282: commanderkeen456dreams_141
+    21300284: commanderkeen456dreams_142
+    21300286: commanderkeen456dreams_143
+    21300288: commanderkeen456dreams_144
+    21300290: commanderkeen456dreams_145
+    21300292: commanderkeen456dreams_146
+    21300294: commanderkeen456dreams_147
+    21300296: commanderkeen456dreams_148
+    21300298: commanderkeen456dreams_149
+    21300300: commanderkeen456dreams_150
+    21300302: commanderkeen456dreams_151
+    21300304: commanderkeen456dreams_152
+    21300306: commanderkeen456dreams_153
+    21300308: commanderkeen456dreams_154
+    21300310: commanderkeen456dreams_155
+    21300312: commanderkeen456dreams_156
+    21300314: commanderkeen456dreams_157
+    21300316: commanderkeen456dreams_158
+    21300318: commanderkeen456dreams_159
+    21300320: commanderkeen456dreams_160
+    21300322: commanderkeen456dreams_161
+    21300324: commanderkeen456dreams_162
+    21300326: commanderkeen456dreams_163
+    21300328: commanderkeen456dreams_164
+    21300330: commanderkeen456dreams_165
+    21300332: commanderkeen456dreams_166
+    21300334: commanderkeen456dreams_167
+    21300336: commanderkeen456dreams_168
+    21300338: commanderkeen456dreams_169
+    21300340: commanderkeen456dreams_170
+    21300342: commanderkeen456dreams_171
+    21300344: commanderkeen456dreams_172
+    21300346: commanderkeen456dreams_173
+    21300348: commanderkeen456dreams_174
+    21300350: commanderkeen456dreams_175
+    21300352: commanderkeen456dreams_176
+    21300354: commanderkeen456dreams_177
+    21300356: commanderkeen456dreams_178
+    21300358: commanderkeen456dreams_179
+    21300360: commanderkeen456dreams_180
+    21300362: commanderkeen456dreams_181
+    21300364: commanderkeen456dreams_182
+    21300366: commanderkeen456dreams_183
+    21300368: commanderkeen456dreams_184
+    21300370: commanderkeen456dreams_185
+    21300372: commanderkeen456dreams_186
+    21300374: commanderkeen456dreams_187
+    21300376: commanderkeen456dreams_188
+    21300378: commanderkeen456dreams_189
+    21300380: commanderkeen456dreams_190
+    21300382: commanderkeen456dreams_191
+    21300384: commanderkeen456dreams_192
+    21300386: commanderkeen456dreams_193
+    21300388: commanderkeen456dreams_194
+    21300390: commanderkeen456dreams_195
+    21300392: commanderkeen456dreams_196
+    21300394: commanderkeen456dreams_197
+    21300396: commanderkeen456dreams_198
+    21300398: commanderkeen456dreams_199
+    21300400: commanderkeen456dreams_200
+    21300402: commanderkeen456dreams_201
+    21300404: commanderkeen456dreams_202
+    21300406: commanderkeen456dreams_203
+    21300408: commanderkeen456dreams_204
+    21300410: commanderkeen456dreams_205
+    21300412: commanderkeen456dreams_206
+    21300414: commanderkeen456dreams_207
+    21300416: commanderkeen456dreams_208
+    21300418: commanderkeen456dreams_209
+    21300420: commanderkeen456dreams_210
+    21300422: commanderkeen456dreams_211
+    21300424: commanderkeen456dreams_212
+    21300426: commanderkeen456dreams_213
+    21300428: commanderkeen456dreams_214
+    21300430: commanderkeen456dreams_215
+    21300432: commanderkeen456dreams_216
+    21300434: commanderkeen456dreams_217
+    21300436: commanderkeen456dreams_218
+    21300438: commanderkeen456dreams_219
+    21300440: commanderkeen456dreams_220
+    21300442: commanderkeen456dreams_221
+    21300444: commanderkeen456dreams_222
+    21300446: commanderkeen456dreams_223
+    21300448: commanderkeen456dreams_224
+    21300450: commanderkeen456dreams_225
+    21300452: commanderkeen456dreams_226
+    21300454: commanderkeen456dreams_227
+    21300456: commanderkeen456dreams_228
+    21300458: commanderkeen456dreams_229
+    21300460: commanderkeen456dreams_230
+    21300462: commanderkeen456dreams_231
+    21300464: commanderkeen456dreams_232
+    21300466: commanderkeen456dreams_233
+    21300468: commanderkeen456dreams_234
+    21300470: commanderkeen456dreams_235
+    21300472: commanderkeen456dreams_236
+    21300474: commanderkeen456dreams_237
+    21300476: commanderkeen456dreams_238
+    21300478: commanderkeen456dreams_239
+    21300480: commanderkeen456dreams_240
+    21300482: commanderkeen456dreams_241
+    21300484: commanderkeen456dreams_242
+    21300486: commanderkeen456dreams_243
+    21300488: commanderkeen456dreams_244
+    21300490: commanderkeen456dreams_245
+    21300492: commanderkeen456dreams_246
+    21300494: commanderkeen456dreams_247
+    21300496: commanderkeen456dreams_248
+    21300498: commanderkeen456dreams_249
+    21300500: commanderkeen456dreams_250
+    21300502: commanderkeen456dreams_251
+    21300504: commanderkeen456dreams_252
+    21300506: commanderkeen456dreams_253
+    21300508: commanderkeen456dreams_254
+    21300510: commanderkeen456dreams_255
+    21300512: commanderkeen456dreams_256
+    21300514: commanderkeen456dreams_257
+    21300516: commanderkeen456dreams_258
+    21300518: commanderkeen456dreams_259
+    21300520: commanderkeen456dreams_260
+    21300522: commanderkeen456dreams_261
+    21300524: commanderkeen456dreams_262
+    21300526: commanderkeen456dreams_263
+    21300528: commanderkeen456dreams_264
+    21300530: commanderkeen456dreams_265
+    21300532: commanderkeen456dreams_266
+    21300534: commanderkeen456dreams_267
+    21300536: commanderkeen456dreams_268
+    21300538: commanderkeen456dreams_269
+    21300540: commanderkeen456dreams_270
+    21300542: commanderkeen456dreams_271
+    21300544: commanderkeen456dreams_272
+    21300546: commanderkeen456dreams_273
+    21300548: commanderkeen456dreams_274
+    21300550: commanderkeen456dreams_275
+    21300552: commanderkeen456dreams_276
+    21300554: commanderkeen456dreams_277
+    21300556: commanderkeen456dreams_278
+    21300558: commanderkeen456dreams_279
+    21300560: commanderkeen456dreams_280
+    21300562: commanderkeen456dreams_281
+    21300564: commanderkeen456dreams_282
+    21300566: commanderkeen456dreams_283
+    21300568: commanderkeen456dreams_284
+    21300570: commanderkeen456dreams_285
+    21300572: commanderkeen456dreams_286
+    21300574: commanderkeen456dreams_287
+    21300576: commanderkeen456dreams_288
+    21300578: commanderkeen456dreams_289
+    21300580: commanderkeen456dreams_290
+    21300582: commanderkeen456dreams_291
+    21300584: commanderkeen456dreams_292
+    21300586: commanderkeen456dreams_293
+    21300588: commanderkeen456dreams_294
+    21300590: commanderkeen456dreams_295
+    21300592: commanderkeen456dreams_296
+    21300594: commanderkeen456dreams_297
+    21300596: commanderkeen456dreams_298
+    21300598: commanderkeen456dreams_299
+    21300600: commanderkeen456dreams_300
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: commanderkeen456dreams_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 500
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 500
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 501
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 501
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 501
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 501
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 501
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 501
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 501
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 501
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 501
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 503
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 464
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 464
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 464
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 464
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 464
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 464
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 464
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 464
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 464
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 464
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 464
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 464
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 464
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 464
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 464
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 464
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 464
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 464
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 464
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 464
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 464
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 421
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 421
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 421
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 421
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 421
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 421
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 421
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 421
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 421
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 421
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 421
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_49
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 435
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_52
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 441
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_53
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 440
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 429
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_55
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 429
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 381
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 385
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 381
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 385
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_60
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 386
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_61
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 385
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_62
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 385
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 381
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_64
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 384
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 381
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_66
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 378
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 381
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_68
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 381
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 381
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_70
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 381
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_71
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 379
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 335
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 335
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 335
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 335
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 335
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_77
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 335
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_78
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 354
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_79
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 356
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 351
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 345
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_82
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 335
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 355
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_84
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 357
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_85
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 352
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 346
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 300
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 300
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 300
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_90
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 300
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_91
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 300
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 300
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 300
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_95
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 300
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_96
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 300
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_97
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 300
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_98
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 300
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_99
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 300
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_100
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 300
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 300
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_102
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 300
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_103
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 300
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_104
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 300
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_105
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 300
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_106
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 300
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_107
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 278
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 279
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_109
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 278
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_110
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 279
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_111
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 273
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_112
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 266
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_114
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 281
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_115
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 281
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_116
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_117
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_118
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 231
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_119
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 231
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_120
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 231
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 231
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 233
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 231
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_124
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 231
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_126
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 231
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_127
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 231
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 231
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_129
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 231
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_130
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 231
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_131
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 231
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_132
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 233
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_133
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 231
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_134
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 231
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_135
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 231
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_136
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 231
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_137
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 194
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_139
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 194
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_140
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_141
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 194
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_143
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 194
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_144
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 194
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 194
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_146
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 194
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_147
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 194
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_148
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 194
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_149
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 194
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_150
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 194
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_151
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 207
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_152
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_153
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 207
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_155
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_156
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 191
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_157
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 183
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_158
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_161
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 159
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 159
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_163
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 159
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_164
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 159
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_165
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 159
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_166
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 159
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_167
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 159
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_168
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 159
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_169
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 159
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_170
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 124
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_171
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 128
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_172
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 124
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_173
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 128
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_174
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 129
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_175
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 128
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_176
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 129
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_177
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 124
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_178
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 127
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_179
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 124
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_180
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 124
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_181
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 124
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_182
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 124
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_183
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 124
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_184
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 124
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_185
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 124
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_186
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 124
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_187
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 125
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_188
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 124
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_189
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 124
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_190
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 124
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_191
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 124
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_192
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 85
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_193
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 85
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_194
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 85
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_195
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 85
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 85
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_197
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 85
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_198
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 85
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_199
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_200
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 85
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_201
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 85
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_202
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 106
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_203
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_204
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 105
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_205
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 111
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_206
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 105
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_207
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 111
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_208
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 106
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_209
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_210
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 85
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_211
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 85
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_212
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_213
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_214
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_216
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 85
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_217
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 85
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_218
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 85
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_219
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 85
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_220
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_221
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 85
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_222
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_223
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_224
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_225
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_226
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_227
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_228
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_229
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_230
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_231
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_232
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_233
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_234
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_235
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_236
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_237
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_238
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 55
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_239
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 55
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_240
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_242
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 36
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_243
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_244
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_245
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 36
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 36
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_247
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_248
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_249
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_250
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 36
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_251
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 37
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_252
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_253
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_254
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 36
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_255
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_256
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_257
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 36
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_258
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_259
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 36
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_260
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_261
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_262
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 36
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_263
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 36
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_264
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 37
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_265
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_266
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 38
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_267
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_268
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_269
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 32
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_270
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 36
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_271
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 20
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_272
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 29
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_273
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_274
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_275
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_276
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_277
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_278
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_279
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_280
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_281
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_282
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_283
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_284
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_285
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_286
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_287
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_288
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_289
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_290
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_291
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_292
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_293
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_294
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_295
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_296
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_297
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_298
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_299
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commanderkeen456dreams_300
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

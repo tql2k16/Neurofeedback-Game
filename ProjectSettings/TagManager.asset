@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bubble
+  - dopeMovement
+  - hungryBite
+  - thePlayer
+  - dopeFish
+  - fishFood
+  - Menu
+  - progressBar
+  - level1
+  - level2
+  - level3
+  - CallibrationPanel
+  - TimerSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - dopeFish
+  - Backgruond
+  - player
+  - UI 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1520820615
+    locked: 0
+  - name: Player
+    uniqueID: 2007945249
+    locked: 0
+  - name: Fish
+    uniqueID: 2791034269
+    locked: 0
+  - name: UI
+    uniqueID: 1063871517
+    locked: 0
+  - name: UI 3
+    uniqueID: 1203651341
+    locked: 0

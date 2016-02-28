@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 2f18d00a98dab6f4991c2a94c4559f61
+timeCreated: 1449868175
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: keen4_masks_0
+    21300002: keen4_masks_1
+    21300004: keen4_masks_2
+    21300006: keen4_masks_3
+    21300008: keen4_masks_4
+    21300010: keen4_masks_5
+    21300012: keen4_masks_6
+    21300014: keen4_masks_7
+    21300016: keen4_masks_8
+    21300018: keen4_masks_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: keen4_masks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 577
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 577
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 577
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1887
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1871
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 704
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 704
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 704
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keen4_masks_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 704
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

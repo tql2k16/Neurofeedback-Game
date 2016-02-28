@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <playSound>false</playSound>
+  <onlyReduceScale>false</onlyReduceScale>
+  <ignoreLastPower>true</ignoreLastPower>
+  <subjectName>test1</subjectName>
+  <lowerThreshold>0.153598279</lowerThreshold>
+  <midThreshold>0.33238095</midThreshold>
+  <upperThreshold>0.58099556</upperThreshold>
+  <maxThreshold>1</maxThreshold>
+  <minScale4FatFish>1</minScale4FatFish>
+  <maxScale4FatFish>5</maxScale4FatFish>
+  <reductionScale>0.01</reductionScale>
+  <increaseScale>0.00101928355</increaseScale>
+  <normalFishScale>3.5</normalFishScale>
+  <noramlizingMax>40</noramlizingMax>
+  <noramlizingMin>12</noramlizingMin>
+  <samples4Normalizing>10</samples4Normalizing>
+  <dynamicMax4Normalizing>false</dynamicMax4Normalizing>
+  <dynamicMin4Normalizing>false</dynamicMin4Normalizing>
+  <calibTimer>30000</calibTimer>
+  <meanEyesOpen>16.4061241</meanEyesOpen>
+  <meanSqrtEyesOpen>17.9483986</meanSqrtEyesOpen>
+  <deviationEyesOpen>17.9483986</deviationEyesOpen>
+  <varianceEyesOpen>53.16684</varianceEyesOpen>
+  <maxEyesOpen>40.74084</maxEyesOpen>
+  <minEyesOpen>12.0332565</minEyesOpen>
+  <rangeEyesOpen>28.7075844</rangeEyesOpen>
+  <kurtosisEyesOpen>2.483592</kurtosisEyesOpen>
+  <skewnessEyesOpen>1.84452522</skewnessEyesOpen>
+  <meanEyesClosed>17.82711</meanEyesClosed>
+  <meanSqrtEyesClosed>19.0890713</meanSqrtEyesClosed>
+  <deviationEyesClosed>19.0890713</deviationEyesClosed>
+  <varianceEyesClosed>46.7415543</varianceEyesClosed>
+  <maxEyesClosed>40.74084</maxEyesClosed>
+  <minEyesClosed>12.0332565</minEyesClosed>
+  <rangeEyesClosed>28.7075844</rangeEyesClosed>
+  <kurtosisEyesClosed>2.41322613</kurtosisEyesClosed>
+  <skewnessEyesClosed>1.577339</skewnessEyesClosed>
+</Root>

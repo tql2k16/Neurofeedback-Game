@@ -1,0 +1,5 @@
+D:\Unity Projects\Fisherino\SharpOSC\bin\Debug\SharpOSC.dll
+D:\Unity Projects\Fisherino\SharpOSC\bin\Debug\SharpOSC.pdb
+D:\Unity Projects\Fisherino\SharpOSC\obj\Debug\SharpOSC.csprojResolveAssemblyReference.cache
+D:\Unity Projects\Fisherino\SharpOSC\obj\Debug\SharpOSC.dll
+D:\Unity Projects\Fisherino\SharpOSC\obj\Debug\SharpOSC.pdb
