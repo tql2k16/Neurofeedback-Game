@@ -146,7 +146,7 @@ namespace Assets._00scripterino
         {
             string p;
             if (path.Equals(""))
-                p = "./fisherino_Data/Settings/settings";
+                p = "./Assets/Settings/settings";
             else
                 p = path;
             XMLReadAndWrite.Serialize<GameSettings>(settings, p);

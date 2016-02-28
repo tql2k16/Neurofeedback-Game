@@ -43,7 +43,7 @@ public class CalibrationWithOSC : MonoBehaviour
         
 
 
-        filenameCallibration = "./fisherino_Data/PowerLog/Testing/CALLIBRATION" + DateTime.Now.ToFileTimeUtc() + ".csv";
+        filenameCallibration = "./Assets/PowerLog/Testing/CALLIBRATION" + DateTime.Now.ToFileTimeUtc() + ".csv";
 
     }
 
@@ -86,7 +86,7 @@ public class CalibrationWithOSC : MonoBehaviour
         timeIntervalInMs = GameManager.instance.settings.calibTimer;
         subject = GameManager.instance.settings.subjectName;
         data = new List<float>();
-        filenameCallibration = "./fisherino_Data/PowerLog/Testing/" + subject + "_EyesOpen" + DateTime.Now.ToFileTimeUtc() + ".csv";
+        filenameCallibration = "./Assets/PowerLog/Testing/" + subject + "_EyesOpen" + DateTime.Now.ToFileTimeUtc() + ".csv";
         writeHeader4Statistics();
 
     }
@@ -100,7 +100,7 @@ public class CalibrationWithOSC : MonoBehaviour
         timeIntervalInMs = GameManager.instance.settings.calibTimer;
         subject = GameManager.instance.settings.subjectName;
         data = new List<float>();
-        filenameCallibration = "./fisherino_Data/PowerLog/Testing/" + subject + "_EyesClosed_" + DateTime.Now.ToFileTimeUtc() + ".csv";
+        filenameCallibration = "./Assets/PowerLog/Testing/" + subject + "_EyesClosed_" + DateTime.Now.ToFileTimeUtc() + ".csv";
         writeHeader4Statistics();
 
     }

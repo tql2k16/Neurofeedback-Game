@@ -84,7 +84,7 @@ public class UIUpdateManager : MonoBehaviour
         onlyReduce.onValueChanged.AddListener(updateReduceToggle);
         ignoreLastPower.onValueChanged.AddListener(updateIgnoreLastPower);
 
-        string path = "./fisherino_Data/Settings/";
+        string path = "./Assets/Settings/";
 
         //currentFile = "settings";
 
@@ -238,17 +238,17 @@ public class UIUpdateManager : MonoBehaviour
     //    if (fileNames.Contains(file+ ".xml"))
     //    {
     //        currentFile = file;
-    //        m.settings = XMLReadAndWrite.Deserialize<GameSettings>("./fisherino_Data/Settings/" + file);
+    //        m.settings = XMLReadAndWrite.Deserialize<GameSettings>("./Assets/Settings/" + file);
     //        Debug.Log(s.subjectName);
     //        loadValuesIntoUI();
     //    }
     //    else {
     //        //m.settings.subjectName = subjectCrop.text;
-    //        m.storeSettings("./fisherino_Data/Settings/" + file);
+    //        m.storeSettings("./Assets/Settings/" + file);
     //        fileNames.Add(file);
     //        currentFile = file;
     //        Debug.Log("find teh exception");
-    //        m.settings = XMLReadAndWrite.Deserialize<GameSettings>("./fisherino_Data/Settings/" + file);
+    //        m.settings = XMLReadAndWrite.Deserialize<GameSettings>("./Assets/Settings/" + file);
     //        loadValuesIntoUI();
     //    }
     //}
@@ -297,7 +297,7 @@ public class UIUpdateManager : MonoBehaviour
         loadValuesIntoSettings();
 
         oscData.CloseListener();
-        GameManager.instance.storeSettings("./fisherino_Data/Settings/" + currentFile);
+        GameManager.instance.storeSettings("./Assets/Settings/" + currentFile);
 
         SceneManager.LoadScene("dopeFishIsFatGame");
     }
@@ -306,7 +306,7 @@ public class UIUpdateManager : MonoBehaviour
 
         oscData.CloseListener();
         loadValuesIntoSettings();
-        GameManager.instance.storeSettings("./fisherino_Data/Settings/" + currentFile);
+        GameManager.instance.storeSettings("./Assets/Settings/" + currentFile);
 
 
     }
