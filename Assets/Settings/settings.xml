@@ -13,28 +13,28 @@
   <reductionScale>0.01</reductionScale>
   <increaseScale>0.00101928355</increaseScale>
   <normalFishScale>3.5</normalFishScale>
-  <noramlizingMax>40</noramlizingMax>
-  <noramlizingMin>12</noramlizingMin>
+  <noramlizingMax>6</noramlizingMax>
+  <noramlizingMin>0</noramlizingMin>
   <samples4Normalizing>10</samples4Normalizing>
   <dynamicMax4Normalizing>false</dynamicMax4Normalizing>
   <dynamicMin4Normalizing>false</dynamicMin4Normalizing>
-  <calibTimer>30000</calibTimer>
-  <meanEyesOpen>16.4061241</meanEyesOpen>
-  <meanSqrtEyesOpen>17.9483986</meanSqrtEyesOpen>
-  <deviationEyesOpen>17.9483986</deviationEyesOpen>
-  <varianceEyesOpen>53.16684</varianceEyesOpen>
-  <maxEyesOpen>40.74084</maxEyesOpen>
-  <minEyesOpen>12.0332565</minEyesOpen>
-  <rangeEyesOpen>28.7075844</rangeEyesOpen>
-  <kurtosisEyesOpen>2.483592</kurtosisEyesOpen>
-  <skewnessEyesOpen>1.84452522</skewnessEyesOpen>
-  <meanEyesClosed>17.82711</meanEyesClosed>
-  <meanSqrtEyesClosed>19.0890713</meanSqrtEyesClosed>
-  <deviationEyesClosed>19.0890713</deviationEyesClosed>
-  <varianceEyesClosed>46.7415543</varianceEyesClosed>
-  <maxEyesClosed>40.74084</maxEyesClosed>
-  <minEyesClosed>12.0332565</minEyesClosed>
-  <rangeEyesClosed>28.7075844</rangeEyesClosed>
-  <kurtosisEyesClosed>2.41322613</kurtosisEyesClosed>
-  <skewnessEyesClosed>1.577339</skewnessEyesClosed>
+  <calibTimer>5000</calibTimer>
+  <meanEyesOpen>0.499778837</meanEyesOpen>
+  <meanSqrtEyesOpen>0.49978587</meanSqrtEyesOpen>
+  <deviationEyesOpen>0.00268013054</deviationEyesOpen>
+  <varianceEyesOpen>7.1831E-06</varianceEyesOpen>
+  <maxEyesOpen>0.5034606</maxEyesOpen>
+  <minEyesOpen>0.4959871</minEyesOpen>
+  <rangeEyesOpen>0.00747349858</rangeEyesOpen>
+  <kurtosisEyesOpen>-1.52938879</kurtosisEyesOpen>
+  <skewnessEyesOpen>-0.0207469109</skewnessEyesOpen>
+  <meanEyesClosed>0.499807447</meanEyesClosed>
+  <meanSqrtEyesClosed>0.499814481</meanSqrtEyesClosed>
+  <deviationEyesClosed>0.002680312</deviationEyesClosed>
+  <varianceEyesClosed>7.18407227E-06</varianceEyesClosed>
+  <maxEyesClosed>0.503472447</maxEyesClosed>
+  <minEyesClosed>0.495968461</minEyesClosed>
+  <rangeEyesClosed>0.00750398636</rangeEyesClosed>
+  <kurtosisEyesClosed>-1.52750719</kurtosisEyesClosed>
+  <skewnessEyesClosed>-0.03565096</skewnessEyesClosed>
 </Root>

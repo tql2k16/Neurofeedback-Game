@@ -69,6 +69,7 @@ public class OSCReceiver : MonoBehaviour
             foreach (float f in msg.Arguments)
             {
                 res += (f + ",");
+                Debug.Log(f);
                 powerData.add(f);
 
                 //try

@@ -40,7 +40,7 @@ public class CalibrationWithOSC : MonoBehaviour
 
         data = new List<float>();
 
-        
+
 
 
         filenameCallibration = "./Assets/PowerLog/Testing/CALLIBRATION" + DateTime.Now.ToFileTimeUtc() + ".csv";
@@ -142,18 +142,26 @@ public class CalibrationWithOSC : MonoBehaviour
 
             if (distance > timeIntervalInMs)
             {
-                Debug.Log("done");
+                if (!isFinished)
+                {
 
-                writeStatistics();
+                    isFinished = true;
+                    Debug.Log("done");
 
-                computeEyesOpen = false;
-                computeEyesClosed = false;
-                isFinished = true;
+                    while (writingStatistics) {
 
-                if (data != null && data.Count > 1)
-                    Debug.Log("Mean:" + data.Average() + " Mean^2:" + data.RootMeanSquare() + " Dev:" + data.StandardDeviation() + " Variance:" + data.Variance());
+                    }
 
-                
+                    writeStatistics();
+
+                    computeEyesOpen = false;
+                    computeEyesClosed = false;
+
+
+                    if (data != null && data.Count > 1)
+                        Debug.Log("Mean:" + data.Average() + " Mean^2:" + data.RootMeanSquare() + " Dev:" + data.StandardDeviation() + " Variance:" + data.Variance());
+
+                }
 
             }
             else {
@@ -170,87 +178,102 @@ public class CalibrationWithOSC : MonoBehaviour
 
     }
 
+    bool writingStatistics = false;
+
     private void writeStatistics()
     {
-        TextWriter file = new StreamWriter(filenameCallibration, true);
+        if (writingStatistics)
+            return;
 
-        GameSettings s = GameManager.instance.settings;
-
-        file.Write("Mean");
-
-        file.Write(";");
-        file.Write("Squared Mean");
-        file.Write(";");
-        file.Write("Median");
-        file.Write(";");
-        file.Write("Deviation");
-        file.Write(";");
-        file.Write("Variance");
-        file.Write(";");
-        file.Write("Kurtosis(Steilheit)");
-        file.Write(";");
-        file.Write("Max");
-        file.Write(";");
-        file.Write("Min");
-        file.Write(";");
-        file.Write("Skewness(Schiefe)");
-        file.Write(";");
-        file.Write("Mode");
-        file.Write(";");
-        file.Write("Range(Spannweite)");
-        file.Write(";");
-        file.WriteLine("");
-
-        file.Write(Convert.ToString(data.Average()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.RootMeanSquare()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Median()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.StandardDeviation()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Variance()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Kurtosis()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Max()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Min()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Skewness()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Mode<float>()).Replace('.', ','));
-        file.Write(";");
-        file.Write(Convert.ToString(data.Range()).Replace('.', ','));
-        file.Write(";");
-        file.WriteLine("");
-        file.Close();
-
-        if (computeEyesOpen)
+        try
         {
-            s.meanEyesOpen = data.Average();
-            s.meanSqrtEyesOpen = data.RootMeanSquare();
-            s.deviationEyesOpen = data.StandardDeviation();
-            s.varianceEyesOpen = data.Variance();
-            s.kurtosisEyesOpen = data.Kurtosis();
-            s.maxEyesOpen = data.Max();
-            s.minEyesOpen = data.Min();
-            s.skewnessEyesOpen = data.Skewness();
-            s.rangeEyesOpen = data.Range();
+            writingStatistics = true;
 
-            Debug.Log("writing statistics ..........................");
+            TextWriter file = new StreamWriter(filenameCallibration, true);
+
+            GameSettings s = GameManager.instance.settings;
+
+            file.Write("Mean");
+
+            file.Write(";");
+            file.Write("Squared Mean");
+            file.Write(";");
+            file.Write("Median");
+            file.Write(";");
+            file.Write("Deviation");
+            file.Write(";");
+            file.Write("Variance");
+            file.Write(";");
+            file.Write("Kurtosis(Steilheit)");
+            file.Write(";");
+            file.Write("Max");
+            file.Write(";");
+            file.Write("Min");
+            file.Write(";");
+            file.Write("Skewness(Schiefe)");
+            file.Write(";");
+            file.Write("Mode");
+            file.Write(";");
+            file.Write("Range(Spannweite)");
+            file.Write(";");
+            file.WriteLine("");
+
+            file.Write(Convert.ToString(data.Average()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.RootMeanSquare()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Median()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.StandardDeviation()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Variance()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Kurtosis()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Max()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Min()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Skewness()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Mode<float>()).Replace('.', ','));
+            file.Write(";");
+            file.Write(Convert.ToString(data.Range()).Replace('.', ','));
+            file.Write(";");
+            file.WriteLine("");
+            file.Close();
+
+            if (computeEyesOpen)
+            {
+                s.meanEyesOpen = data.Average();
+                s.meanSqrtEyesOpen = data.RootMeanSquare();
+                s.deviationEyesOpen = data.StandardDeviation();
+                s.varianceEyesOpen = data.Variance();
+                s.kurtosisEyesOpen = data.Kurtosis();
+                s.maxEyesOpen = data.Max();
+                s.minEyesOpen = data.Min();
+                s.skewnessEyesOpen = data.Skewness();
+                s.rangeEyesOpen = data.Range();
+
+                Debug.Log("writing statistics ..........................");
+            }
+            else if (computeEyesClosed)
+            {
+                s.meanEyesClosed = data.Average();
+                s.meanSqrtEyesClosed = data.RootMeanSquare();
+                s.deviationEyesClosed = data.StandardDeviation();
+                s.varianceEyesClosed = data.Variance();
+                s.kurtosisEyesClosed = data.Kurtosis();
+                s.maxEyesClosed = data.Max();
+                s.minEyesClosed = data.Min();
+                s.skewnessEyesClosed = data.Skewness();
+                s.rangeEyesClosed = data.Range();
+            }
+
+            writingStatistics = false;
         }
-        else if (computeEyesClosed)
-        {
-            s.meanEyesClosed = data.Average();
-            s.meanSqrtEyesClosed = data.RootMeanSquare();
-            s.deviationEyesClosed = data.StandardDeviation();
-            s.varianceEyesClosed = data.Variance();
-            s.kurtosisEyesClosed = data.Kurtosis();
-            s.maxEyesClosed = data.Max();
-            s.minEyesClosed = data.Min();
-            s.skewnessEyesClosed = data.Skewness();
-            s.rangeEyesClosed = data.Range();
+        catch (Exception e) {
+            Debug.Log(e.Message);
         }
     }
 
@@ -275,6 +298,7 @@ public class CalibrationWithOSC : MonoBehaviour
                     realF = f;
 
                     data.Add(f);
+                    if(!writingStatistics) { 
                     TextWriter file = new StreamWriter(filenameCallibration, true);
                     file.Write(DateTime.Now.TimeOfDay);
                     file.Write(";");
@@ -284,6 +308,7 @@ public class CalibrationWithOSC : MonoBehaviour
                     file.Write(";");
                     file.WriteLine("");
                     file.Close();
+                    }
                 }
 
             }

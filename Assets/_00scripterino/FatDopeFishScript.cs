@@ -87,7 +87,7 @@ public class FatDopeFishScript : MonoBehaviour
             }
             else {
                 float f = osc.getLastNormalizedPower();
-                Debug.Log(f);
+                //Debug.Log(f);
 
                 //  if (lastPower != f || f > 0.998 || f <= 0.002)
 
